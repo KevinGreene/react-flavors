@@ -6,4 +6,5 @@ To run the project, run
 
 ```bash
 yarn
-yarn start```
+yarn start
+```
